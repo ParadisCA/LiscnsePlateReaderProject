@@ -1,0 +1,56 @@
+{
+  "dmv": {
+    "vehicle": [
+      {
+        "plate": "6TRJ244",
+        "make": "Ford",
+        "model": "Focus",
+        "color": "Red",
+        "owner": {
+          "name": "John Smith",
+          "contact": "your_email@bellevuecollege.edu"
+        }
+      },
+      {
+        "plate": "5ALN015",
+        "make": "Honda",
+        "model": "Civic",
+        "color": "Blue",
+        "owner": {
+          "name": "Jose Garcia",
+          "contact": "your_email@bellevuecollege.edu"
+        }
+      },
+      {
+        "plate": "7TRR812",
+        "make": "Jeep",
+        "model": "Wrangler",
+        "color": "Yellow",
+        "owner": {
+          "name": "Vladimir Lavrov",
+          "contact": "your_email@bellevuecollege.edu"
+        }
+      },
+      {
+        "plate": "3ZZB646",
+        "make": "Honda",
+        "model": "CRV",
+        "color": "Silver",
+        "owner": {
+          "name": "Chantal Barbier",
+          "contact": "your_email@bellevuecollege.edu"
+        }
+      },
+      {
+        "plate": "6YMX832",
+        "make": "Chevrolet",
+        "model": "Cruze",
+        "color": "Red",
+        "owner": {
+          "name": "Tim Carpenter",
+          "contact": "your_email@bellevuecollege.edu"
+        }
+      }
+    ]
+  }
+}
